@@ -1,2 +1,6 @@
 node_modules/*
 .env
+EMAIL=vbritnell@vff.org.au
+PASSWORD=R0ckpaper
+
+PREFIX_ENABLED=true
